@@ -1,0 +1,45 @@
+
+
+*{
+  padding: 0;
+  margin: 0;
+  
+}
+
+.navp{
+
+width: auto;
+height: 211px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(90deg, #204D37 0%, #00853B 40%);
+}
+.naveg{
+    
+    font-weight: sans-serif;
+    box-sizing: border-box;
+    width: auto;
+    height: 80px;
+    left: calc(50% - 1510px/2);
+    top: 211px; 
+    background: #ffffff;
+    border-bottom: 5px solid #00BD19;
+    left: 0%;
+    right: 71.15%;
+    bottom: 6.11%;
+     
+    transform: rotate(0.25deg);
+   display: flex;
+}
+li{
+    list-style: none ;
+   
+}
+a{
+    color: #00A84A;
+    text-decoration: none;
+  
+}
+
+
